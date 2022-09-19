@@ -1,5 +1,5 @@
 # Hi there 👋, I'm João Pereira
-### Junior Developer
+### Junior Developer 💻 at Quatenus WorldWide Intelligent Location 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fyetJP&show_icons=true&theme=radical)
 
@@ -27,9 +27,9 @@ Hope you enjoy the projects and maybe we meet someday!
 
 ### Bonus
 
-- 🔭 I’m currently working on **42School** projects - *ft_printf* - 
+- 🔭 I’m currently working on **42School** projects - *pipex* - 
  
-- 🌱 I’m currently learning **C** - *variadic functions* - 
+- 🌱 I’m currently learning **C** - *rederection* - 
 
 - 👯 I’m looking to collaborate on **C** | **C#** - *Backend Dev* - {*IoT*, *Robotics*, *software*, *AI*} "*I want to try new things*" 
 
